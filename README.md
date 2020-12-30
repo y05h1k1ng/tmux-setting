@@ -1,6 +1,7 @@
 # tmux config
 
 ## Dependencies (Plugins)
+- xsel
 - [TPM](https://github.com/tmux-plugins/tpm)
 - [tmux-conpycat](https://github.com/tmux-plugins/tmux-copycat)
 - [tmux-battery](https://github.com/tmux-plugins/tmux-battery)
